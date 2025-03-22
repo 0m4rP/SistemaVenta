@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wn91+uY0gfM=",
+  "dgSpecHash": "hdsH+mKYNK4=",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+  "projectFilePath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar Penagos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Omar Penagos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

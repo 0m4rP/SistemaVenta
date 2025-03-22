@@ -2968,11 +2968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectUniqueName": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "projectName": "SistemaVenta.IOC",
-      "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "packagesPath": "C:\\Users\\Omar Penagos\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
+      "outputPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio 2022\\Componentes\\NuGetPackages"
@@ -2993,14 +2993,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-              "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+            "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+              "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
             },
-            "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-              "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+            "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+              "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
             }
           }
         }

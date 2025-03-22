@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S/1/FT1OARQ=",
+  "dgSpecHash": "iq4LxKGVQQA=",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+  "projectFilePath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar Penagos\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Omar Penagos\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

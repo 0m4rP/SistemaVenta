@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F74F95-567A-4D3B-848A-4C4AC6259FE5}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F74F95-567A-4D3B-848A-4C4AC6259FE5}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC176CB9-653A-46D2-A684-12973457E2D6}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.bll\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC176CB9-653A-46D2-A684-12973457E2D6}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0236C338-F736-4D44-81B0-755FDBF0C713}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0236C338-F736-4D44-81B0-755FDBF0C713}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B6FEF7-1314-4984-A37D-9CA2F0691797}|SistemaVenta.Model\\SistemaVenta.Model.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B6FEF7-1314-4984-A37D-9CA2F0691797}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E31311A-A9F2-43DD-B58E-08146E16B861}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E31311A-A9F2-43DD-B58E-08146E16B861}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F29F41-A49C-4049-9A52-B29BCFF2B05E}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F29F41-A49C-4049-9A52-B29BCFF2B05E}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC176CB9-653A-46D2-A684-12973457E2D6}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\visual studio 2022\\proyectos\\cursoangyc\\apisistemaventa\\sistemaventa.bll\\servicios\\contrato\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC176CB9-653A-46D2-A684-12973457E2D6}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\contrato\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:38:52.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:37:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\Contrato\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:33:54.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:17:52.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Model\\Producto.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
+              "RelativeToolTip": "SistemaVenta.Model\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:23:40.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DTO\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\ProductoDTO.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.DTO\\ProductoDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:17:15.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\ProductoService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:14:46.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

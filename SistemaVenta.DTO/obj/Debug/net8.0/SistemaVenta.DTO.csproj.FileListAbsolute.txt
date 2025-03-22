@@ -9,3 +9,15 @@ D:\Visual Studio 2022\Proyectos\CursoAngYC#\APISistemaVenta\SistemaVenta.DTO\obj
 D:\Visual Studio 2022\Proyectos\CursoAngYC#\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
 D:\Visual Studio 2022\Proyectos\CursoAngYC#\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
 D:\Visual Studio 2022\Proyectos\CursoAngYC#\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.deps.json
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfo.cs
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.sourcelink.json
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.dll
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\Visual Studio 2022\Proyectos\CursoAngYC\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll

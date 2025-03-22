@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+      "projectUniqueName": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
       "projectName": "SistemaVenta.Model",
-      "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+      "projectPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
       "packagesPath": "C:\\Users\\Omar Penagos\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC#\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+      "outputPath": "D:\\Visual Studio 2022\\Proyectos\\CursoAngYC\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio 2022\\Componentes\\NuGetPackages"

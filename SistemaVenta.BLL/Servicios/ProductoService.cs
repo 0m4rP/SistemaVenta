@@ -30,12 +30,19 @@ namespace SistemaVenta.BLL.Servicios
             {
                 var queryProducto = await _productoRepositorio.Consultar();
                 var listaProductos = queryProducto.Include(cat => cat.IdCategoriaNavigation).ToList();
+                Console.WriteLine($"Productos cargados: {listaProductos.Count}"); //agregado para hacer debugger
+                foreach (var producto in listaProductos)
+                {
+                    Console.WriteLine($"Producto: {producto.Nombre}, Categoría: {producto.IdCategoriaNavigation?.Nombre}");
+                }
 
                 return _mapper.Map<List<ProductoDTO>>(listaProductos.ToList());
 
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+
+                Console.WriteLine($"Error: {ex.Message}");
 
                 throw;
             }

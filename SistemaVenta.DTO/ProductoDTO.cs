@@ -14,7 +14,7 @@ namespace SistemaVenta.DTO
 
         public int? IdCategoria { get; set; }
 
-        public int? DescripcionCategoria { get; set; }
+        public string? DescripcionCategoria { get; set; }
 
         public int? Stock { get; set; }
 
